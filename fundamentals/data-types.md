@@ -26,7 +26,7 @@ Yukarıdaki kodda ilk olarak metin ve sayı bölme işlemine alınır ve sonuç 
 
 ## String Veri Tipi
 
-String ifadeleri çift tırnak(" "), tek tırnak(' ') ya da backticks (` `) içerisine yazılabilir. Tek tırnak ile çift tırnak arasında bir fark yoktur.
+String ifadeleri çift tırnak(" "), tek tırnak(' ') ya da backticks ( ` ) içerisine yazılabilir. Tek tırnak ile çift tırnak arasında bir fark yoktur.
 Backticks genişletilmiş işlevsellik olarak kullanılır.
 
 ```js
